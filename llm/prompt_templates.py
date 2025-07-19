@@ -1,0 +1,1 @@
+TEMPLATE = 'Formalize this: {hypothesis}'

@@ -1,0 +1,22 @@
+# LLM Service Configuration
+llm:
+  provider: "ollama"
+  model: "tinyllama" 
+  base_url: "http://localhost:11434"
+  timeout: 30.0
+  temperature: 0.7
+  max_tokens: 1000
+
+# Agent Configuration  
+agents:
+  hypothesis_generator:
+    temperature: 0.8
+    max_iterations: 3
+  
+  validator:
+    temperature: 0.3
+    confidence_threshold: 0.7
+  
+  consensus_builder:
+    min_agreement: 0.6
+    max_iterations: 5

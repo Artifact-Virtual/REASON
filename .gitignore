@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+ENV/
+.env/
+
+# Node.js dependencies
+node_modules/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
