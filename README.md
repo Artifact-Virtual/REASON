@@ -12,7 +12,7 @@
 
 Artifact Reason automatically handles all dependencies including Ollama installation:
 
-```bash
+
 
 # Artifact Reason
 
