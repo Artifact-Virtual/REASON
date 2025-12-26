@@ -8,15 +8,13 @@
 **Frontend:** Streamlit  
 **Use Case:** Scientific Discovery, Symbolic Equation Discovery, Formalization and Proof
 
+> Reason is a technical, multi-agent reasoning system for scientific discovery, hypothesis generation, symbolic modeling, and formal proof verification. It integrates curated theorem knowledge for reflection and validation, supporting advanced research workflows.
+
+---
+
 ## Quick Start
 
 Artifact Reason automatically handles all dependencies including Ollama installation:
-
-
-
-# Artifact Reason
-
-Artifact Reason is a technical, multi-agent reasoning system for scientific discovery, hypothesis generation, symbolic modeling, and formal proof verification. It integrates curated theorem knowledge for reflection and validation, supporting advanced research workflows.
 
 
 ## System Overview
